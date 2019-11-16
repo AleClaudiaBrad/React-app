@@ -1,0 +1,20 @@
+.recipe{
+    box-shadow:  0px 5px 20px grey;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    flex: 0 0 40%;
+    font-style: Lucida Console;
+}
+
+.text{
+    text-align: center;
+    list-style: none;
+}
+
+
+
+
